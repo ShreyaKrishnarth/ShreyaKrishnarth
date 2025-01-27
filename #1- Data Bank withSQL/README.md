@@ -102,11 +102,10 @@ customer_id |	txn_date |	txn_type |	txn_amount |
 ## Contributing
 `Contributions` are always welcome !!
 
-If you would like to contribute to the project, please `fork` the repository and make a `pull request`.
+If you want to contribute to the project, please `fork` the repository and make a `pull request`.
 
 
 ## Support
 
-If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn].
+If you have any doubts, queries  or suggestions then, please connect with me on [LinkedIn].https://www.linkedin.com/in/shreya-krishnarth/
 
-Do ⭐ the repository, if it inspired you, gave you ideas of your own or helped you in any way !!
